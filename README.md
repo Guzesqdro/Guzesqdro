@@ -18,9 +18,9 @@ A bit of everything, for everyone:
 
 Everything here is tested, clean, and ad-free. 🧼
 
-## 🌍 Check out on my website: [Guzesqdro](https://guzesqdro.github.io)**
+## 🌍 Check out on my website: [Guzesqdro](https://guzesqdro.github.io)
 
-## 📦 Check out my repo:**
+## 📦 Check out my repo:
 
 **[Cydia 📦](https://shorturl.at/Gg92V)**
 
