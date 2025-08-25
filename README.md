@@ -44,7 +44,9 @@ I do not support illegal use of any software or content.
 ## Want something added or missing a specific app 🤔?
 
 **📲 DM me on Instagram: [@guzesqdro](https://instagram.com/guzesqdro)**
+
 **✈️ DM me on Telegram: [Guzesqdro](https://t.me/guzesqdro)**
+
 **🤖 DM me on Discord: [@guzesqdro](https://discord.gg/ZsvRvNY7)**
 
 Let’s build something awesome together. 🥳
