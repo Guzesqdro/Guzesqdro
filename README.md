@@ -1,6 +1,6 @@
-# Hey! I’m guzesqdro — the mind behind this profile.
+# Hey! I’m guzesqdro — the mind behind this project 🥳
 
-After months of planning, testing, and hard work, I created this space to bring together everything I’ve learned, built, and improved — all in one place. 🚀
+After 4 months of non-stop planning, testing, and hacking, I launched this platform to bring together everything I’ve learned, built, and tweaked — all in one place. 🚀
 
 ## 💡 What’s the goal?
 
