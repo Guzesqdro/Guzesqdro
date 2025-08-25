@@ -20,6 +20,8 @@ Everything here is tested, clean, and ad-free. 🧼
 
 🌍 Check out on my website: [Guzesqdro](https://guzesqdro.github.io)
 
+📦 Check out my repo: [Cydia](cydia://url/https://guzesqdro.github.io), [Zebra](zebra://sources/add/https://guzesqdro.github.io), [Sileo](sileo://source/https://guzesqdro.github.io)
+
 ## 🧠 Why?
 
 Because I love learning, breaking things, fixing them better — and helping others skip the struggle.  
