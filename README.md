@@ -18,14 +18,15 @@ A bit of everything, for everyone:
 
 Everything here is tested, clean, and ad-free. 🧼
 
-🌍 Check out on my website: [Guzesqdro](https://guzesqdro.github.io)
+## 🌍 Check out on my website: [Guzesqdro](https://guzesqdro.github.io)**
 
-📦 Check out my repo:
-[Cydia 📦](https://shorturl.at/Gg92V)
+## 📦 Check out my repo:**
 
-[Zebra 🦓](https://shorturl.at/VvTXF)
+**[Cydia 📦](https://shorturl.at/Gg92V)**
 
-[Sileo 🗂️](https://shorturl.at/AAM0G)
+**[Zebra 🦓](https://shorturl.at/VvTXF)**
+
+**[Sileo 🗂️](https://shorturl.at/AAM0G)**
 
 ## 🧠 Why?
 
@@ -40,10 +41,11 @@ I do not support illegal use of any software or content.
 
 ---
 
-Want something added or missing a specific app?  
-📲 DM me on Instagram: [@guzesqdro](https://instagram.com/guzesqdro)  
-✈️ DM me on Telegram: [Guzesqdro](https://t.me/guzesqdro)  
-🤖 DM me on Discord: [@guzesqdro](https://discord.gg/ZsvRvNY7)  
+## Want something added or missing a specific app 🤔?
+
+**📲 DM me on Instagram: [@guzesqdro](https://instagram.com/guzesqdro)**
+**✈️ DM me on Telegram: [Guzesqdro](https://t.me/guzesqdro)**
+**🤖 DM me on Discord: [@guzesqdro](https://discord.gg/ZsvRvNY7)**
 
 Let’s build something awesome together. 🥳
-**— guzesqdro 💻🧪**
+## — guzesqdro 💻🧪
