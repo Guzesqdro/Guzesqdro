@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey! I’m guzesqdro — the mind behind this profile.
 
-<!--
-**Guzesqdro/Guzesqdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After months of planning, testing, and hard work, I created this space to bring together everything I’ve learned, built, and improved — all in one place. 🚀
 
-Here are some ideas to get you started:
+## 💡 What’s the goal?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To create a real tech community where knowledge is shared freely and curiosity is the driving force.  
+I believe everyone should have access to powerful tools, apps, and ideas — no paywalls, no BS.
+
+## 🔧 What do I do?
+
+A bit of everything, for everyone:  
+📱 Modded iOS apps (.ipa)  
+🤖 Tweaked Android apps  
+🍏 Custom macOS software  
+💻 Unlocked Windows tools  
+📦 A full repo for Sileo, Zebra, and Cydia  
+
+Everything here is tested, clean, and ad-free. 🧼
+
+🌍 Check out on my website: [Guzesqdro](https://guzesqdro.github.io)
+
+## 🧠 Why?
+
+Because I love learning, breaking things, fixing them better — and helping others skip the struggle.  
+If you’re into tech, mods, and open-source vibes, you’re in the right place. 🤝
+
+---
+
+⚠️ **Important**  
+All content is shared for educational purposes only.  
+I do not support illegal use of any software or content.
+
+---
+
+Want something added or missing a specific app?  
+📲 DM me on Instagram: [@guzesqdro](https://instagram.com/guzesqdro)  
+✈️ DM me on Telegram: [Guzesqdro](https://t.me/guzesqdro)  
+🤖 DM me on Discord: [@guzesqdro](https://discord.gg/ZsvRvNY7)  
+
+Let’s build something awesome together. 🥳
+**— guzesqdro 💻🧪**
