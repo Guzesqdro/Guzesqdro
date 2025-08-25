@@ -21,9 +21,9 @@ Everything here is tested, clean, and ad-free. 🧼
 🌍 Check out on my website: [Guzesqdro](https://guzesqdro.github.io)
 
 📦 Check out my repo:
-[Cydia](cydia://url/https://guzesqdro.github.io)
-[Zebra](zebra://sources/add/https://guzesqdro.github.io)
-[Sileo](sileo://source/https://guzesqdro.github.io)
+[Cydia](https://shorturl.at/Gg92V)
+[Zebra](https://shorturl.at/VvTXF)
+[Sileo](https://shorturl.at/AAM0G)
 
 ## 🧠 Why?
 
