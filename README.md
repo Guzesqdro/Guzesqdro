@@ -10,11 +10,11 @@ I believe everyone should have access to powerful tools, apps, and ideas — no 
 ## 🔧 What do I do?
 
 A bit of everything, for everyone:  
-📱 Modded iOS apps (.ipa)  
-🤖 Tweaked Android apps  
-🍏 Custom macOS software  
-💻 Unlocked Windows tools  
-📦 A full repo for Sileo, Zebra, and Cydia  
+
+- 📱 An Archive for **old repositories** of Cydia, Zebra and Sileo!
+- 🍏 My own apps for Mac that **every user needs!**
+- 💻 Creating **apps for others!**
+- 🎁 Always **free & open for everyone!** 
 
 Everything here is tested, clean, and ad-free. 🧼
 
