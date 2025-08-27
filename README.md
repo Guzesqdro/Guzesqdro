@@ -14,7 +14,7 @@ A bit of everything, for everyone:
 - 📱 An Archive for **old repositories** of Cydia, Zebra and Sileo!
 - 🍏 My own apps for Mac that **every user needs!**
 - 💻 Creating **apps for others!**
-- 🎁 Always **free & open for everyone!** 
+- 🎁 Always **FREE!** 
 
 Everything here is tested, clean, and ad-free. 🧼
 
